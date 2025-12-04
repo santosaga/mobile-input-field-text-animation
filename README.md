@@ -6,6 +6,8 @@ A typing animation effect for mobile apps that types out text character-by-chara
 
 When users tap on style pills/buttons, instead of text appearing instantly in the input field, it animates character-by-character like someone is typing it out.
 
+![Typing Animation Demo](screen-recording.gif)
+
 **User Flow:**
 1. User taps "Anime Style" pill
 2. Input field animates: "T" → "Tr" → "Tra" → "Transform this into anime..."
